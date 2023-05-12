@@ -1,0 +1,19 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    list-style: none;
+    justify-content: space-around;
+    font-size: 150%;
+    color:#08787c;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.coder{
+    color: blueviolet;
+    text-align: center;
+    margin-top: 2rem;
+}
